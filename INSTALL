@@ -1,0 +1,9 @@
+Building TLGCoin
+
+See doc/readme-qt.rst for instructions on building TLGCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TLGCoin.
+
+See doc/build-*.txt for instructions on building tlgcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TLGCoin.
